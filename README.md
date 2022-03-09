@@ -3,7 +3,7 @@
 
 ---
 
-###Technologies Used
+##Technologies Used
 
 - HTML
   
@@ -12,7 +12,7 @@
 - JS
   
 
-###How to Start
+##How to Start
 
 Just Open ```index.html``` and you are good to go
 
